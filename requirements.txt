@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+pydeck
+geopandas
+rasterio
+scipy
+wqchartpy
+shapely
+fiona
